@@ -6,6 +6,7 @@ paginate: 5
 theme: PaperMod
 DefaultContentLanguage: "ja"
 languageCode: "ja-jp"
+contentDir: [posts, notes]
 
 enableEmoji: true
 enableRobotsTXT: true
@@ -21,7 +22,7 @@ params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ryosuke Okushi
   description: "Blog of RoysK"
-  keywords: [Blog, Portfolio, PaperMod, Ryosuke Okushi, Deep Learning, 大櫛諒介]
+  keywords: [Blog, Portfolio, PaperMod, Ryosuke Okushi, Deep Learning, 大櫛諒介, 経路予測]
   author: Ryosuke Okushi
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
@@ -82,10 +83,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/RoysK9/RoysK9.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/RoysK9/RoysK9.github.io/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -110,7 +111,7 @@ menu:
       weight: 5
     - identifier: notes
       name: notes
-      url: fixed/notes
+      url: notes
       weight: 15
 
     # - identifier: dogs
@@ -126,7 +127,7 @@ menu:
     #   name: tags
     #   url: tags/
     #   weight: 25
-    
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
