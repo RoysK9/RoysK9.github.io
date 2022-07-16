@@ -4,24 +4,24 @@ publishDir: "docs"
 title: Ryosuke Okushi
 paginate: 5
 theme: PaperMod
-languageCode: ja
+DefaultContentLanguage: "ja"
+languageCode: "ja-jp"
 
 enableEmoji: true
 enableRobotsTXT: true
-
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
 minify:
-  disableXML: true
-  minifyOutput: true
+  disableXML: false
+  minifyOutput: false
 
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ryosuke Okushi
   description: "Blog of RoysK"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, Ryosuke Okushi, Deep Learning, 大櫛諒介]
   author: Ryosuke Okushi
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
@@ -125,14 +125,14 @@ menu:
     #   url: tags/
     #   weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+pygmentsUseClasses: true
+markup:
+    highlight:
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        # style: monokai
 
 outputs:
     home:
