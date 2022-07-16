@@ -1,5 +1,5 @@
 ---
-title: "Profile"
+title: "自己紹介 | Profile"
 date: 2022-07-16T17:00:02+09:00
 draft: false
 hideMeta: true
@@ -18,6 +18,14 @@ ShowPostNavLinks: false
    - 2022.3 卒業
  - 2022.4 岐阜大学大学院自然科学技術研究科 知能理工学専攻 知能情報学領域 入学
 
+### Laboratory
+
+〒501-1193
+
+岐阜県岐阜市柳戸1-1
+
+岐阜大学 工学部 電気電子・情報工学科 加藤研究室
+
 ### Skills
 
  - Python
@@ -28,4 +36,4 @@ ShowPostNavLinks: false
  - 卒業論文
    - 一人称視点動画における歩行者の経路予測の基礎研究
  - 学会発表　まだなし
-   - はやく投稿できるようがんばります!
+   - はやく投稿できるよう頑張ります!
