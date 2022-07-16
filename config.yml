@@ -46,11 +46,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "profile.jpg"
-    favicon16x16: "profile.jpg"
-    favicon32x32: "profile.jpg"
-    apple_touch_icon: "profile.jpg"
-    safari_pinned_tab: "profile.jpg"
+    favicon: "favicon.png"
+    favicon16x16: "favicon.png"
+    favicon32x32: "favicon.png"
+    apple_touch_icon: "favicon.png"
+    safari_pinned_tab: "favicon.png"
 
   label:
     text: "Home"
@@ -120,6 +120,7 @@ menu:
     # - name: search
     #   url: search/
     #   weight: 20
+
     # - identifier: tags
     #   name: tags
     #   url: tags/

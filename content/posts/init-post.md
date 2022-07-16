@@ -6,7 +6,7 @@ tags: [ blog ]
 draft: false
 ---
  
-今日は大雨が降っては止み，降っては止みの繰り返しでした．
+今日は大雨が降っては止みの繰り返しでした．
  
-![rain](/profile.jpg)
+![rain](/pretty.jpg)
  
