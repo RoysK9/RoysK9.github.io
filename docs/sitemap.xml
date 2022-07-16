@@ -2,10 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://okaponta.github.io/profile/categories/</loc>
+    <loc>https://roysk9.github.io/profile/tags/blog/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okaponta.github.io/profile/</loc>
+    <loc>https://roysk9.github.io/profile/categories/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okaponta.github.io/profile/tags/</loc>
+    <loc>https://roysk9.github.io/profile/posts/init-post/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/profile/posts/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/profile/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/profile/tags/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/profile/categories/uncategorized/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/profile/search/</loc>
   </url>
 </urlset>
