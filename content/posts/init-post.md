@@ -6,7 +6,7 @@ tags: [ blog ]
 draft: false
 ---
  
-When the rain begins to fall...
+今日は大雨が降っては止み，降っては止みの繰り返しでした．
  
-![rain](/img/rain.jpeg)
+![rain](/profile.jpg)
  

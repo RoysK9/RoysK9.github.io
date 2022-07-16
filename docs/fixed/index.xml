@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ryosuke Okushi</title>
-    <link>https://roysk9.github.io/</link>
-    <description>Recent content on Ryosuke Okushi</description>
+    <title>Fixeds on Ryosuke Okushi</title>
+    <link>https://roysk9.github.io/fixed/</link>
+    <description>Recent content in Fixeds on Ryosuke Okushi</description>
     <image>
       <url>https://roysk9.github.io/profile.jpg</url>
       <link>https://roysk9.github.io/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 Jul 2022 17:12:10 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:12:10 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
       <link>https://roysk9.github.io/fixed/notes/</link>
@@ -30,16 +30,6 @@
 岐阜大学大学院で深層学習について勉強している大櫛諒介です．
 Education 2018.4 岐阜大学 工学部 電気電子・情報工学科 情報コース 入学 2022.3 卒業 2022.4 岐阜大学大学院自然科学技術研究科 知能理工学専攻 知能情報学領域 入学 Skills Python 研究では専らPython及びPytorchを使用しています 投稿歴 卒業論文 一人称視点動画における歩行者の経路予測の基礎研究 学会発表　まだなし はやく投稿できるようがんばります! </description>
     </item>
-    
-    <item>
-      <title>It&#39;s raining cats and dogs!</title>
-      <link>https://roysk9.github.io/posts/init-post/</link>
-      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://roysk9.github.io/posts/init-post/</guid>
-      <description>今日は大雨が降っては止み，降っては止みの繰り返しでした．</description>
-    </item>
-    
     
   </channel>
 </rss>

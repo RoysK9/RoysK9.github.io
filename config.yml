@@ -99,17 +99,24 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: posts
-      weight: 5
     - identifier: profile
       name: profile
       url: fixed/profile
       weight: 10
-    - name: works
-      url: fixed/works
+    - identifier: posts
+      name: posts
+      url: posts
+      weight: 5
+    - identifier: notes
+      name: notes
+      url: fixed/notes
       weight: 15
+
+    # - identifier: dogs
+    #   name: dogs
+    #   url: fixed/dogs
+    #   weight: 5
+    
     # - name: search
     #   url: search/
     #   weight: 20
