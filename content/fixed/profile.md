@@ -9,7 +9,7 @@ ShowPostNavLinks: false
 
 ご訪問ありがとうございます！
 
-岐阜大学大学院で深層学習について勉強している[大櫛諒介](https://github.com/RoysK9)です．
+岐阜大学大学院で深層学習について勉強している [大櫛諒介](https://github.com/RoysK9) です．
 
 
 ### Education
