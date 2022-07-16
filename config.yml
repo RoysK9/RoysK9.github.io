@@ -1,5 +1,5 @@
 baseURL: "https://roysk9.github.io/"
-canonifyurls: false
+canonifyurls: true
 publishDir: "docs"
 title: Ryosuke Okushi
 paginate: 5
@@ -116,7 +116,7 @@ menu:
     #   name: dogs
     #   url: fixed/dogs
     #   weight: 5
-    
+
     # - name: search
     #   url: search/
     #   weight: 20
@@ -139,3 +139,4 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
