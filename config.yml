@@ -14,7 +14,7 @@ buildFuture: false
 buildExpired: false
 
 minify:
-  disableXML: false
+  disableXML: true
   minifyOutput: false
 
 params:
