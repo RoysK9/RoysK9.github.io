@@ -1,0 +1,134 @@
+baseURL: "https://roysk9.github.io/profile/"
+canonifyurls: false
+publishDir: "docs"
+title: Ryosuke Okushi
+paginate: 5
+theme: PaperMod
+languageCode: ja-jp
+
+enableEmoji: true
+enableRobotsTXT: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ryosuke Okushi
+  description: "Blog of RoysK"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Ryosuke Okushi
+  # author: ["Me", "You"] # multiple authors
+  images: ["profile.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "Thinking_Face_Emoji_large.png"
+    favicon16x16: "Thinking_Face_Emoji_large.png"
+    favicon32x32: "Thinking_Face_Emoji_large.png"
+    apple_touch_icon: "Thinking_Face_Emoji_large.png"
+    safari_pinned_tab: "Thinking_Face_Emoji_large.png"
+
+  label:
+    text: "Home"
+    # icon: Thinking_Face_Emoji_large.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "I'm Ryosuke Okushi"
+    subtitle: "This is my home page"
+    #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
+    imageUrl: "profile.jpg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: my image
+    # buttons:
+    #     - name: Posts
+    #       url: posts
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/RyosukeOkushi"
+    - name: github
+      url: "https://github.com/RoysK9"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/RoysK9/RoysK9.github.io/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: posts
+      weight: 5
+    - identifier: profile
+      name: profile
+      url: fixed/profile
+      weight: 10
+    - name: works
+      url: fixed/works
+      weight: 15
+    # - name: search
+    #   url: search/
+    #   weight: 20
+    # - identifier: tags
+    #   name: tags
+    #   url: tags/
+    #   weight: 25
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
