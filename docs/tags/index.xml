@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ryosuke Okushi</title>
-    <link>https://roysk9.github.io/profile/tags/</link>
+    <link>https://roysk9.github.io/tags/</link>
     <description>Recent content in Tags on Ryosuke Okushi</description>
     <image>
-      <url>https://roysk9.github.io/profile/profile.jpg</url>
-      <link>https://roysk9.github.io/profile/profile.jpg</link>
+      <url>https://roysk9.github.io/profile.jpg</url>
+      <link>https://roysk9.github.io/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roysk9.github.io/profile/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roysk9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://roysk9.github.io/profile/tags/blog/</link>
+      <link>https://roysk9.github.io/tags/blog/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://roysk9.github.io/profile/tags/blog/</guid>
+      <guid>https://roysk9.github.io/tags/blog/</guid>
       <description></description>
     </item>
     

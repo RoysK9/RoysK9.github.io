@@ -1,4 +1,4 @@
-baseURL: "https://roysk9.github.io/profile/"
+baseURL: "https://roysk9.github.io/"
 canonifyurls: false
 publishDir: "docs"
 title: Ryosuke Okushi
