@@ -4,7 +4,7 @@ publishDir: "docs"
 title: Ryosuke Okushi
 paginate: 5
 theme: PaperMod
-languageCode: "ja-jp"
+languageCode: ja
 
 enableEmoji: true
 enableRobotsTXT: true
