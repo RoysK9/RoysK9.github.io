@@ -22,12 +22,12 @@ params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ryosuke Okushi
   description: "Blog of RoysK"
-  keywords: [Blog, Portfolio, PaperMod, Ryosuke Okushi, Deep Learning, 大櫛諒介, 経路予測, 加藤研究室, 深層学習, ホームページ]
+  keywords: [Blog, Portfolio, Ryosuke Okushi, Deep Learning, 大櫛諒介, 経路予測, 加藤研究室, 深層学習, ホームページ, 岐阜大学]
   author: Ryosuke Okushi
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
