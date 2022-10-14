@@ -4,6 +4,8 @@
   Copyright (c) 2020 nanxiaobei and adityatelange
   Copyright (c) 2021-2022 adityatelange
 */
+@charset "utf-8";
+
 body {
-  background: red;
+    background: red;
 }
