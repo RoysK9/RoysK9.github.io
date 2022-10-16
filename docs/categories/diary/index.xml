@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Diary on Ryosuke Okushi</title>
+    <link>https://roysk9.github.io/categories/diary/</link>
+    <description>Recent content in Diary on Ryosuke Okushi</description>
+    <image>
+      <url>https://roysk9.github.io/profile.jpg</url>
+      <link>https://roysk9.github.io/profile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 16 Oct 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>読書の秋？</title>
+      <link>https://roysk9.github.io/posts/novel/</link>
+      <pubDate>Sun, 16 Oct 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/posts/novel/</guid>
+      <description>ここ最近，寝る前に本を読むように心掛けています．
+読んでいるのは村上春樹の「1Q84」．
+高校時代尊敬していた先生が村上春樹好きだったので読んでみようと思った次第です．
+習慣化，できると良いのですが．</description>
+    </item>
+    
+    <item>
+      <title>23歳を迎えました</title>
+      <link>https://roysk9.github.io/posts/birthday_post/</link>
+      <pubDate>Sat, 06 Aug 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/posts/birthday_post/</guid>
+      <description>23歳になりました．
+テストの69点と70点の間にある1点は異様に大きく感じられますが，
+22歳と23歳の間の1歳も同じような大きさを感じます．</description>
+    </item>
+    
+    <item>
+      <title>ホームページ開設🎉</title>
+      <link>https://roysk9.github.io/posts/open_homepage/</link>
+      <pubDate>Sat, 16 Jul 2022 17:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/posts/open_homepage/</guid>
+      <description>ホームページを開設しました．
+日記や読んだ論文のまとめに使っていこうと思います🤗</description>
+    </item>
+    
+  </channel>
+</rss>

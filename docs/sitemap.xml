@@ -2,29 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roysk9.github.io/tags/blog/</loc>
-    <lastmod>2022-07-16T19:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://roysk9.github.io/categories/</loc>
-    <lastmod>2022-07-16T19:00:00+09:00</lastmod>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/tags/diary/</loc>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/categories/diary/</loc>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/posts/</loc>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/</loc>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/tags/</loc>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/posts/novel/</loc>
+    <lastmod>2022-10-16T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/posts/birthday_post/</loc>
+    <lastmod>2022-08-06T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/tags/dataset/</loc>
+    <lastmod>2022-07-16T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/tags/human-object-interaction-detection/</loc>
+    <lastmod>2022-07-16T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/notes/memonet/</loc>
+    <lastmod>2022-07-16T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/notes/</loc>
+    <lastmod>2022-07-16T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://roysk9.github.io/posts/init-post/</loc>
     <lastmod>2022-07-16T19:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://roysk9.github.io/posts/</loc>
-    <lastmod>2022-07-16T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://roysk9.github.io/</loc>
-    <lastmod>2022-07-16T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://roysk9.github.io/tags/</loc>
-    <lastmod>2022-07-16T19:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://roysk9.github.io/categories/uncategorized/</loc>
     <lastmod>2022-07-16T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://roysk9.github.io/notes/</loc>
-    <lastmod>2022-07-16T17:12:10+09:00</lastmod>
   </url><url>
     <loc>https://roysk9.github.io/notes/notes/</loc>
     <lastmod>2022-07-16T17:12:10+09:00</lastmod>
@@ -34,6 +52,9 @@
   </url><url>
     <loc>https://roysk9.github.io/fixed/profile/</loc>
     <lastmod>2022-07-16T17:00:02+09:00</lastmod>
+  </url><url>
+    <loc>https://roysk9.github.io/posts/open_homepage/</loc>
+    <lastmod>2022-07-16T17:00:00+09:00</lastmod>
   </url><url>
     <loc>https://roysk9.github.io/search/</loc>
   </url>

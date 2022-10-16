@@ -10,13 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Jul 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>https://roysk9.github.io/tags/blog/</link>
-      <pubDate>Sat, 16 Jul 2022 19:00:00 +0900</pubDate>
+      <title>Diary</title>
+      <link>https://roysk9.github.io/tags/diary/</link>
+      <pubDate>Sun, 16 Oct 2022 19:00:00 +0900</pubDate>
       
-      <guid>https://roysk9.github.io/tags/blog/</guid>
+      <guid>https://roysk9.github.io/tags/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://roysk9.github.io/tags/dataset/</link>
+      <pubDate>Sat, 16 Jul 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://roysk9.github.io/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Object Interaction Detection</title>
+      <link>https://roysk9.github.io/tags/human-object-interaction-detection/</link>
+      <pubDate>Sat, 16 Jul 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://roysk9.github.io/tags/human-object-interaction-detection/</guid>
       <description></description>
     </item>
     

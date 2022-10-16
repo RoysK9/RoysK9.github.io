@@ -10,7 +10,51 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Jul 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>読書の秋？</title>
+      <link>https://roysk9.github.io/posts/novel/</link>
+      <pubDate>Sun, 16 Oct 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/posts/novel/</guid>
+      <description>ここ最近，寝る前に本を読むように心掛けています．
+読んでいるのは村上春樹の「1Q84」．
+高校時代尊敬していた先生が村上春樹好きだったので読んでみようと思った次第です．
+習慣化，できると良いのですが．</description>
+    </item>
+    
+    <item>
+      <title>23歳を迎えました</title>
+      <link>https://roysk9.github.io/posts/birthday_post/</link>
+      <pubDate>Sat, 06 Aug 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/posts/birthday_post/</guid>
+      <description>23歳になりました．
+テストの69点と70点の間にある1点は異様に大きく感じられますが，
+22歳と23歳の間の1歳も同じような大きさを感じます．</description>
+    </item>
+    
+    <item>
+      <title>MemoNet</title>
+      <link>https://roysk9.github.io/notes/memonet/</link>
+      <pubDate>Sat, 16 Jul 2022 23:00:00 +0000</pubDate>
+      
+      <guid>https://roysk9.github.io/notes/memonet/</guid>
+      <description>&lt;h1 id=&#34;論文情報&#34;&gt;論文情報&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction&lt;/li&gt;
+&lt;li&gt;学会：CVPR (2022)&lt;/li&gt;
+&lt;li&gt;投稿者：Chenxin Xu (上海交通大学)&lt;/li&gt;
+&lt;li&gt;被引用数：6 (2022/10/16時点)&lt;/li&gt;
+&lt;li&gt;タスク：Trajectory Prediction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;新規性差分&#34;&gt;新規性・差分&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;人間の行動決定は&lt;strong&gt;過去の記憶&lt;/strong&gt;から再現されることに着目&lt;/li&gt;
+&lt;li&gt;過去の記憶をネットワークに表現させた&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>It&#39;s raining cats and dogs!</title>
       <link>https://roysk9.github.io/posts/init-post/</link>
@@ -26,7 +70,7 @@
       <pubDate>Sat, 16 Jul 2022 17:12:10 +0900</pubDate>
       
       <guid>https://roysk9.github.io/notes/notes/</guid>
-      <description>メモを置くかもしれないところです．</description>
+      <description>メモや論文のまとめを置くかもしれないところです．</description>
     </item>
     
     <item>
@@ -37,7 +81,17 @@
       <guid>https://roysk9.github.io/fixed/profile/</guid>
       <description>ご訪問ありがとうございます．
 岐阜大学大学院で深層学習について研究している 大櫛諒介 です．
-Education 2018.4 岐阜大学 工学部 電気電子・情報工学科 情報コース 入学 2022.3 卒業 2022.4 岐阜大学大学院 自然科学技術研究科 知能理工学専攻 知能情報学領域 入学 Skills Python 研究では専らPython及びPytorchを使用しています 投稿歴 卒業論文 一人称視点動画における歩行者の経路予測の基礎研究 学会発表　まだなし &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD はやく投稿できるよう頑張ります． ======= はやく投稿できるようがんばります! parent of 75072ea (update)</description>
+Education 2018.4 岐阜大学 工学部 電気電子・情報工学科 情報コース 入学 2022.3 卒業 2022.4 岐阜大学大学院 自然科学技術研究科 知能理工学専攻 知能情報学領域 入学 Skills Python 研究では専らPython及びPytorchを使用しています 投稿歴 卒業論文 一人称視点動画における歩行者の経路予測の基礎研究 学会発表 大櫛 諒介, 加藤 邦人:&amp;ldquo;データ不均衡なマーキングデータに対する分類モデルの検証&amp;rdquo;, 画像応用技術専門委員会,サマーセミナー2022, pp.22-23 (2022.9) もっと多くの学会で発表できるよう頑張ります． </description>
+    </item>
+    
+    <item>
+      <title>ホームページ開設🎉</title>
+      <link>https://roysk9.github.io/posts/open_homepage/</link>
+      <pubDate>Sat, 16 Jul 2022 17:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/posts/open_homepage/</guid>
+      <description>ホームページを開設しました．
+日記や読んだ論文のまとめに使っていこうと思います🤗</description>
     </item>
     
     
