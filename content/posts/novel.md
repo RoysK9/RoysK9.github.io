@@ -1,8 +1,6 @@
 ---
-title: "読書の秋？"
+title: "読書の秋"
 date: 2022-10-16T19:00:00+09:00
-categories: [ Diary ]
-tags: [ Diary ]
 draft: false
 ---
 

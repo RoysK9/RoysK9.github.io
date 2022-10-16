@@ -12,7 +12,7 @@
     <language>ja-jp</language>
     <lastBuildDate>Sun, 16 Oct 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>読書の秋？</title>
+      <title>読書の秋</title>
       <link>https://roysk9.github.io/posts/novel/</link>
       <pubDate>Sun, 16 Oct 2022 19:00:00 +0900</pubDate>
       
@@ -37,10 +37,10 @@
     <item>
       <title>MemoNet</title>
       <link>https://roysk9.github.io/notes/memonet/</link>
-      <pubDate>Sat, 16 Jul 2022 23:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Jul 2022 23:00:00 +0900</pubDate>
       
       <guid>https://roysk9.github.io/notes/memonet/</guid>
-      <description>&lt;h1 id=&#34;論文情報&#34;&gt;論文情報&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;論文情報&#34;&gt;論文情報&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction&lt;/li&gt;
 &lt;li&gt;学会：CVPR (2022)&lt;/li&gt;
@@ -48,7 +48,7 @@
 &lt;li&gt;被引用数：6 (2022/10/16時点)&lt;/li&gt;
 &lt;li&gt;タスク：Trajectory Prediction&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;新規性差分&#34;&gt;新規性・差分&lt;/h1&gt;
+&lt;h2 id=&#34;新規性差分&#34;&gt;新規性・差分&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;人間の行動決定は&lt;strong&gt;過去の記憶&lt;/strong&gt;から再現されることに着目&lt;/li&gt;
 &lt;li&gt;過去の記憶をネットワークに表現させた&lt;/li&gt;

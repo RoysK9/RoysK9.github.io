@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>MemoNet | Ryosuke Okushi</title>
-<meta name="keywords" content="Human-Object Interaction Detection, Dataset">
+<meta name="keywords" content="thesis">
 <meta name="description" content="論文情報
 
 論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction
@@ -56,8 +56,8 @@
 " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://roysk9.github.io/notes/memonet/" /><meta property="og:image" content="https://roysk9.github.io/profile.jpg"/><meta property="article:section" content="notes" />
-<meta property="article:published_time" content="2022-07-16T23:00:00&#43;00:00" />
-<meta property="article:modified_time" content="2022-07-16T23:00:00&#43;00:00" /><meta property="og:site_name" content="Ryosuke Okushi" />
+<meta property="article:published_time" content="2022-07-16T23:00:00&#43;09:00" />
+<meta property="article:modified_time" content="2022-07-16T23:00:00&#43;09:00" /><meta property="og:site_name" content="Ryosuke Okushi" />
 
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://roysk9.github.io/profile.jpg"/>
@@ -106,13 +106,13 @@
   "name": "MemoNet",
   "description": "論文情報 論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction 学会：CVPR (2022) 投稿者：Chenxin Xu (上海交通大学) 被引用数：6 (2022/10/16時点) タスク：Trajectory Prediction 新規性・差分 人間の行動決定は過去の記憶から再現されることに着目 過去の記憶をネットワークに表現させた ",
   "keywords": [
-    "Human-Object Interaction Detection", "Dataset"
+    "thesis"
   ],
-  "articleBody": "論文情報 論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction 学会：CVPR (2022) 投稿者：Chenxin Xu (上海交通大学) 被引用数：6 (2022/10/16時点) タスク：Trajectory Prediction 新規性・差分 人間の行動決定は過去の記憶から再現されることに着目 過去の記憶をネットワークに表現させた 概要 過去の経路から未来の経路が予測できるように学習 過去の経路から未来の意図を作成するために，既知の過去の経路と未来の意図を使用する ネットワーク 既知の過去の経路と未来の意図を用いてメモリーバンクを生成する Social Encoder 過去の経路を符号化するためのエンコーダ Intention Encoder 未来の意図を符号化するためのエンコーダ ひたすらに再構成させることでエンコーダとデコーダが手に入る エンコードした過去の経路を大量に集めることでメモリーバンクが完成する 予測したい過去の経路が入ってきた際，それをエンコードし，類似した過去の経路をバンクから検索する 類似の過去の経路が見つかると，それのペアとなる未来の意図ももちろん見つかる 未来の意図のエンコード表現を予測したい過去の経路に接続し，デコードする デコードして得られた過去の経路と未来の意図から，未来の経路を予測する ひと工夫 類似した過去の経路を複数検索し，未来の意図を接続することで複数の未来の経路が予測できる しかし，複数生成しても似たような経路ばかりになってしまう クラスタリングによって似ていない経路を生成することができる 所感 過去の記憶を使ったというより過去の再現をしただけのように感じました． 精度評価の際には正解の経路との誤差を計算するのですが，複数の経路を生成し，最善の経路で精度を評価するという評価指標があります． その評価指標で良い数値を出すための小技としてクラスタリングは行ったのでしょう． ",
+  "articleBody": "論文情報 論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction 学会：CVPR (2022) 投稿者：Chenxin Xu (上海交通大学) 被引用数：6 (2022/10/16時点) タスク：Trajectory Prediction 新規性・差分 人間の行動決定は過去の記憶から再現されることに着目 過去の記憶をネットワークに表現させた 概要 過去の経路から未来の経路が予測できるように学習 過去の経路から未来の意図を作成するために，既知の過去の経路と未来の意図を使用する ネットワーク 既知の過去の経路と未来の意図を用いてメモリーバンクを生成する Social Encoder 過去の経路を符号化するためのエンコーダ Intention Encoder 未来の意図を符号化するためのエンコーダ ひたすらに再構成させることでエンコーダとデコーダが手に入る エンコードした過去の経路を大量に集めることでメモリーバンクが完成する 予測したい過去の経路が入ってきた際，それをエンコードし，類似した過去の経路をバンクから検索する 類似の過去の経路が見つかると，それのペアとなる未来の意図ももちろん見つかる 未来の意図のエンコード表現を予測したい過去の経路に接続し，デコードする デコードして得られた過去の経路と未来の意図から，未来の経路を予測する ひと工夫 類似した過去の経路を複数検索し，未来の意図を接続することで複数の未来の経路が予測できる しかし，単純に複数生成しても似たような経路ばかりになってしまう クラスタリングによってそれぞれが似ていない経路を生成することができる 所感 過去の記憶を使ったというより過去の再現をしただけのように感じます． 精度評価の際には正解の経路との誤差を計算するのですが，複数の経路を生成し，最善の経路で精度を評価するという評価指標があります． その評価指標で良い数値を出すための小技としてクラスタリングは行ったのでしょう． ",
   "wordCount" : "43",
   "inLanguage": "ja",
-  "datePublished": "2022-07-16T23:00:00Z",
-  "dateModified": "2022-07-16T23:00:00Z",
+  "datePublished": "2022-07-16T23:00:00+09:00",
+  "dateModified": "2022-07-16T23:00:00+09:00",
   "author":{
     "@type": "Person",
     "name": "Ryosuke Okushi"
@@ -195,11 +195,11 @@
     <h1 class="post-title">
       MemoNet
     </h1>
-    <div class="post-meta"><span title='2022-07-16 23:00:00 +0000 UTC'>7月 16, 2022</span>&nbsp;·&nbsp;1 分&nbsp;·&nbsp;Ryosuke Okushi
+    <div class="post-meta"><span title='2022-07-16 23:00:00 +0900 JST'>7月 16, 2022</span>&nbsp;·&nbsp;1 分&nbsp;·&nbsp;Ryosuke Okushi
 
 </div>
   </header> 
-  <div class="post-content"><h1 id="論文情報">論文情報<a hidden class="anchor" aria-hidden="true" href="#論文情報">#</a></h1>
+  <div class="post-content"><h2 id="論文情報">論文情報<a hidden class="anchor" aria-hidden="true" href="#論文情報">#</a></h2>
 <ul>
 <li>論文名：Remember Intentions: Retrospective-Memory-based Trajectory Prediction</li>
 <li>学会：CVPR (2022)</li>
@@ -207,17 +207,17 @@
 <li>被引用数：6 (2022/10/16時点)</li>
 <li>タスク：Trajectory Prediction</li>
 </ul>
-<h1 id="新規性差分">新規性・差分<a hidden class="anchor" aria-hidden="true" href="#新規性差分">#</a></h1>
+<h2 id="新規性差分">新規性・差分<a hidden class="anchor" aria-hidden="true" href="#新規性差分">#</a></h2>
 <ul>
 <li>人間の行動決定は<strong>過去の記憶</strong>から再現されることに着目</li>
 <li>過去の記憶をネットワークに表現させた</li>
 </ul>
-<h1 id="概要">概要<a hidden class="anchor" aria-hidden="true" href="#概要">#</a></h1>
+<h2 id="概要">概要<a hidden class="anchor" aria-hidden="true" href="#概要">#</a></h2>
 <ul>
 <li><strong>過去の経路</strong>から<strong>未来の経路</strong>が予測できるように学習</li>
 <li>過去の経路から未来の意図を作成するために，<strong>既知の過去の経路と未来の意図</strong>を使用する</li>
 </ul>
-<h1 id="ネットワーク">ネットワーク<a hidden class="anchor" aria-hidden="true" href="#ネットワーク">#</a></h1>
+<h2 id="ネットワーク">ネットワーク<a hidden class="anchor" aria-hidden="true" href="#ネットワーク">#</a></h2>
 <ul>
 <li>既知の過去の経路と未来の意図を用いてメモリーバンクを生成する
 <img loading="lazy" src="https://roysk9.github.io/MemoNet/enc_dec.png" alt="Enc_Dec"  />
@@ -242,17 +242,17 @@
 <li>未来の意図のエンコード表現を予測したい過去の経路に接続し，デコードする</li>
 <li>デコードして得られた過去の経路と未来の意図から，<strong>未来の経路</strong>を予測する</li>
 </ul>
-<h2 id="ひと工夫">ひと工夫<a hidden class="anchor" aria-hidden="true" href="#ひと工夫">#</a></h2>
+<h3 id="ひと工夫">ひと工夫<a hidden class="anchor" aria-hidden="true" href="#ひと工夫">#</a></h3>
 <p><img loading="lazy" src="https://roysk9.github.io/MemoNet/cluster.png" alt="cluster"  />
 </p>
 <ul>
 <li>類似した過去の経路を複数検索し，未来の意図を接続することで複数の未来の経路が予測できる</li>
-<li>しかし，複数生成しても似たような経路ばかりになってしまう</li>
-<li>クラスタリングによって似ていない経路を生成することができる</li>
+<li>しかし，単純に複数生成しても似たような経路ばかりになってしまう</li>
+<li>クラスタリングによってそれぞれが似ていない経路を生成することができる</li>
 </ul>
-<h1 id="所感">所感<a hidden class="anchor" aria-hidden="true" href="#所感">#</a></h1>
+<h2 id="所感">所感<a hidden class="anchor" aria-hidden="true" href="#所感">#</a></h2>
 <ul>
-<li>過去の記憶を使ったというより過去の再現をしただけのように感じました．</li>
+<li>過去の記憶を使ったというより過去の再現をしただけのように感じます．</li>
 <li>精度評価の際には正解の経路との誤差を計算するのですが，複数の経路を生成し，最善の経路で精度を評価するという評価指標があります．</li>
 <li>その評価指標で良い数値を出すための小技としてクラスタリングは行ったのでしょう．</li>
 </ul>
@@ -261,14 +261,13 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://roysk9.github.io/tags/human-object-interaction-detection/">Human-Object Interaction Detection</a></li>
-      <li><a href="https://roysk9.github.io/tags/dataset/">Dataset</a></li>
+      <li><a href="https://roysk9.github.io/tags/thesis/">thesis</a></li>
     </ul>
 
 
 <div class="share-buttons">
     <a target="_blank" rel="noopener noreferrer" aria-label="share MemoNet on twitter"
-        href="https://twitter.com/intent/tweet/?text=MemoNet&amp;url=https%3a%2f%2froysk9.github.io%2fnotes%2fmemonet%2f&amp;hashtags=Human-ObjectInteractionDetection%2cDataset">
+        href="https://twitter.com/intent/tweet/?text=MemoNet&amp;url=https%3a%2f%2froysk9.github.io%2fnotes%2fmemonet%2f&amp;hashtags=thesis">
         <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
             <path
                 d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-253.927,424.544c135.939,0 210.268,-112.643 210.268,-210.268c0,-3.218 0,-6.437 -0.153,-9.502c14.406,-10.421 26.973,-23.448 36.935,-38.314c-13.18,5.824 -27.433,9.809 -42.452,11.648c15.326,-9.196 26.973,-23.602 32.49,-40.92c-14.252,8.429 -30.038,14.56 -46.896,17.931c-13.487,-14.406 -32.644,-23.295 -53.946,-23.295c-40.767,0 -73.87,33.104 -73.87,73.87c0,5.824 0.613,11.494 1.992,16.858c-61.456,-3.065 -115.862,-32.49 -152.337,-77.241c-6.284,10.881 -9.962,23.601 -9.962,37.088c0,25.594 13.027,48.276 32.95,61.456c-12.107,-0.307 -23.448,-3.678 -33.41,-9.196l0,0.92c0,35.862 25.441,65.594 59.311,72.49c-6.13,1.686 -12.72,2.606 -19.464,2.606c-4.751,0 -9.348,-0.46 -13.946,-1.38c9.349,29.426 36.628,50.728 68.965,51.341c-25.287,19.771 -57.164,31.571 -91.8,31.571c-5.977,0 -11.801,-0.306 -17.625,-1.073c32.337,21.15 71.264,33.41 112.95,33.41Z" />
