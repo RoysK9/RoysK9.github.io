@@ -7,5 +7,5 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-メモや論文のまとめを置くかもしれないところです．
+ここはメモや論文のまとめを置くかもしれないところです．
 

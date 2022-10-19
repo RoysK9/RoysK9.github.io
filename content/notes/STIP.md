@@ -10,7 +10,7 @@ draft: false
 - 論文名：Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection　
 - 学会：CVPR (2022)
 - 投稿者：Yong Zhang (香港中文大学)
-- 被引用数：2 (2022/10/16時点)
+- 被引用数：2 (2022/10/19時点)
 - タスク：Human Object Interaction
 
 ## 新規性・差分
@@ -43,4 +43,4 @@ draft: false
 ### 所感
 
 - 画像外観情報，空間構造，インタラクション情報を統合的に取り入れることに成功したネットワークであるように思います．
-- Interaction Proposal Networkから提案された候補に直接MLPをかけてもそれなりに予測ができそうな気がします．
+- Interaction Proposal Networkから提案された候補を直接MLPに入力してもそれなりに予測ができそうな気がします．
