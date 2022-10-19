@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Jul 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 23:00:00 +0900</lastBuildDate><atom:link href="https://roysk9.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STIP</title>
+      <link>https://roysk9.github.io/notes/stip/</link>
+      <pubDate>Sun, 18 Sep 2022 23:00:00 +0900</pubDate>
+      
+      <guid>https://roysk9.github.io/notes/stip/</guid>
+      <description>&lt;h2 id=&#34;論文情報&#34;&gt;論文情報&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;論文名：Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection　&lt;/li&gt;
+&lt;li&gt;学会：CVPR (2022)&lt;/li&gt;
+&lt;li&gt;投稿者：Yong Zhang (香港中文大学)&lt;/li&gt;
+&lt;li&gt;被引用数：2 (2022/10/16時点)&lt;/li&gt;
+&lt;li&gt;タスク：Human Object Interaction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;新規性差分&#34;&gt;新規性・差分&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;インタラクション提案&lt;/strong&gt;と&lt;strong&gt;空間構造符号化&lt;/strong&gt;の2段階でHOIを予測&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>MemoNet</title>
       <link>https://roysk9.github.io/notes/memonet/</link>
